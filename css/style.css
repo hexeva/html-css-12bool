@@ -11,10 +11,13 @@
     font-size: 15px;
     text-align: center;
     
+    
 }
 
 .nested-box{
     height: 100%;
     border: 1px solid grey;
     background-color: cyan;
+    font-size: 10px;
+    color: red;
 }

@@ -74,6 +74,12 @@
     max-width: calc( (100% / 11) * 11);
 }
 
+.col-xs-12{
+    flex-basis: calc( (100% / 11) * 12);
+    max-width: calc( (100% / 11) * 12);
+
+
+
 /* Offsets */
 
 .col-offset-1{
