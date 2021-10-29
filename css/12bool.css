@@ -70,13 +70,13 @@
 }
 
 .col-xs-11{
-    flex-basis: calc( (100% / 11) * 11);
-    max-width: calc( (100% / 11) * 11);
+    flex-basis: calc( (100% / 12) * 11);
+    max-width: calc( (100% / 12) * 11);
 }
 
 .col-xs-12{
-    flex-basis: calc( (100% / 11) * 12);
-    max-width: calc( (100% / 11) * 12);
+    flex-basis: calc( (100% / 12) * 12);
+    max-width: calc( (100% / 12) * 12);
 
 
 
